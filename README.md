@@ -16,8 +16,8 @@ When you command as **tell me a joke** and can send emails and writes mail conte
 All new update for **Jarvis** to **Friday**
 Male voice from Jarvis changed to Female voice in Friday.
 For better female voice, we moved to gtts module from pyttsx3 module.
-We added new commands like reading pdf,opening camer and many more.
-Instead of playing only one song while Friday intro and satrtup we addded few more mp3 files and we added all of them in a random function, so that it plays randomly instead of playing only one mp3 file.
+We added new commands like reading pdf,opening camera and many more.
+Instead of playing only one song while Friday intro and Startup we addded few more mp3 files and we added all of them in a random function, so that it plays randomly instead of playing only one mp3 file.
 
 
 ## Commands
